@@ -1,0 +1,3 @@
+CalcTestPlus-1.10.0-https://www.tristudio.github.io
+TRIStudio Update-0.1.0-https://www.tristudio.github.io
+Notiplus-0.0.1-https://www.tristudio.github.io
